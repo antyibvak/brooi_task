@@ -1,7 +1,7 @@
 # Brooi assessment
 
 ## Assessment Description
-- Created a Properties database to keep track of a real estate's assets.
+- Created a Properties database to keep track of a real estate company's assets.
 - These assets include Houses, Apartments, and specific Units within those apartments.
 - The database also keeps track of all the assets of the company within the various states in Nigeria
 - A backend server to CREATE, READ, UPDATE, and DELETE their assets with appropriate endpoints
