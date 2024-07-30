@@ -7,7 +7,7 @@
 - A backend server to CREATE, READ, UPDATE, and DELETE their assets with appropriate endpoints
 - Assessment includes error handling and input-validation
 
-## Tools Used
+## Tech Stack
 - SQLite3 for the database
 - Node.js and Express for the backend server
 - Knex to execute requests to the database via requests made from the express endpoints
@@ -21,6 +21,7 @@
 
 ## Requirements
 - Postman to test the endpoints
+- DB Browser to see the contents of the database
 
 ### How to run
 - Clone repository
@@ -29,3 +30,5 @@
 - Run "npm start" to run the project
 - Open up the server.js file to see all endpoints and request body structure
 - Copy the endpoint into Postman and run with the appropriate HTTP Method
+
+#### The properties.db file can be opened and viewed with DB Browser
